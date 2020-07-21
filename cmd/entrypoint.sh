@@ -6,4 +6,4 @@ then
   cd $WD_PATH
 fi
 
-php CloudObjects-CLI.phar $*
+php /CloudObjects-CLI.phar $*
